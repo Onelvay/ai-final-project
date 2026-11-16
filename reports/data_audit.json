@@ -1,0 +1,19 @@
+{
+  "rows": 595212,
+  "columns": 59,
+  "n_features": 57,
+  "binary_features": 17,
+  "categorical_features": 14,
+  "numeric_features": 26,
+  "duplicate_ids": 0,
+  "duplicate_rows_ignoring_id": 0,
+  "constant_features": [],
+  "true_NaN_cells": 0,
+  "target_values": [
+    0,
+    1
+  ],
+  "positive_rate_pct": 3.645,
+  "binary_columns_with_unexpected_values": [],
+  "features_with_missing_codes": 13
+}

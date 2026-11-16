@@ -1,0 +1,4 @@
+approach,read_s,memory_mb,disk_mb
+"CSV, naive read_csv",3.034,267.925,110.486
+"CSV, chunked + dtype downcast",12.12,52.223,110.486
+Parquet (optimised dtypes),0.354,52.223,16.074

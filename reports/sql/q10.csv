@@ -1,0 +1,5 @@
+family,description,n_features,features_with_missing,mean_abs_univariate_gini,max_abs_univariate_gini
+reg,Regional / area attributes,3,1,0.097,0.1094
+car,Vehicle attributes,16,9,0.0744,0.1482
+ind,Individual (driver) attributes,18,3,0.0355,0.0849
+calc,Calculated insurer features (anonymised),20,0,0.0059,0.0102
